@@ -20,7 +20,7 @@ $ npm install
 ```
 
 ```bash
-$ git clone
+$ git clone (https://github.com/123Brandongomez/teslo-shop.git)
 ```
 
 ## Compile and run the project
